@@ -1,0 +1,33 @@
+
+====10-02-2020 02:18:09====
+{
+            "ResponseCode": "0",
+            "ResponseDescription":"The service request has been accepted successsfully",
+            "MerchantRequestID":"22180-12839625-1",
+            "CheckoutRequestID":"ws_CO_100220200217524037",
+            "ResultCode": "1032",
+            "ResultDesc":"Request cancelled by user"
+        }
+        
+
+====13-02-2020 12:20:06====
+{
+            "ResponseCode": "0",
+            "ResponseDescription":"The service request has been accepted successsfully",
+            "MerchantRequestID":"7340-22077400-1",
+            "CheckoutRequestID":"ws_CO_130220201219465557",
+            "ResultCode": "0",
+            "ResultDesc":"The service request is processed successfully."
+        }
+        
+
+====13-02-2020 12:22:50====
+{
+            "ResponseCode": "0",
+            "ResponseDescription":"The service request has been accepted successsfully",
+            "MerchantRequestID":"22183-20205993-1",
+            "CheckoutRequestID":"ws_CO_130220201222149847",
+            "ResultCode": "1037",
+            "ResultDesc":"DS timeout."
+        }
+        

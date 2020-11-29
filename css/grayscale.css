@@ -1,0 +1,611 @@
+body {
+    background: #fff;
+   
+}
+
+@media(min-width: 992px){
+.container-fluid .row {
+    padding: 0 3.5rem;
+}
+}
+
+section .title{
+    padding-left: 3.5rem;
+}
+
+section .title span {
+    font-family: 'Archivo Narrow';
+    color: #fff;
+}
+
+section .title h1 {
+    color: #fe7900;
+    font-size: 44px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    line-height: 1.15em;
+    font-family: 'Oswald';
+    text-transform: uppercase;
+}
+
+
+section .title a {
+    position: relative;
+    top: 40px;
+    font-family: 'Archivo Narrow';
+}
+
+.modal-title {
+    color: #ffffff;
+    font-family: 'Archivo Narrow';
+    text-transform: uppercase;
+}
+
+ .modal-header,
+ .modal-footer {
+    border-color: rgba(255, 255, 255, 0.075);
+}
+
+.modal-content{
+  background-color: #FF7F66;
+  color: #ffffff;
+
+}
+
+.modal-tertiary .modal-content {
+    background-color: #FF7F66;
+    color: #ffffff;
+}
+
+ .modal-content .heading {
+    color: #ffffff;
+}
+
+.modal-tertiary .close>span:not(.sr-only) {
+    background: #8965e0;
+    color: #fff;
+     font-size: 1.3rem;
+  border-radius: 50%;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 5px;
+  height: 50px;
+  width: 50px;
+}
+
+.section-image {
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
+
+.form .form-control{
+  padding: 1.2rem 1rem;
+  font-family: 'Archivo Narrow';
+  outline: none;
+  border: none;
+}
+
+.modal-content  form label{
+  font-family: 'Archivo Narrow';
+  text-transform: uppercase;
+}
+
+.modal-content .form  .download{
+  text-decoration: none;
+  font-family: 'Archivo Narrow';
+  margin-top: 1rem;
+  padding: 0.6rem 1rem;
+  background: #8965e0;
+  border: none;
+  outline: none;
+  color: #fff;
+  transition: all 0.5s ease-in-out;
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.modal-content .form  .download:hover{
+  background: transparent;
+  border: 2px solid #8965e0;
+  color: #8965e0;
+}
+
+.dropdown-toggle::after {
+     content: none;
+}
+
+
+
+/*============================
+   navbar
+============================*/
+
+
+
+ #mainNav .nav-link {
+        font-family: 'Poppins';
+        color: #fe7900;
+        text-transform: uppercase;
+        
+    }
+
+#mainNav .navbar-toggler {
+    font-size: 80%;
+    padding: 0.75rem;
+    color: #fe7900;
+    border: 1px solid #fe7900;
+}
+#mainNav .navbar-toggler .lnr{
+    color: #fe7900;
+}
+
+#mainNav .navbar-toggler:focus {
+    outline: none;
+}
+
+#mainNav .navbar-brand img {
+    width: 200px;
+}
+
+#mainNav .navbar-nav .nav-item:hover {
+    color: fade(white, 80%);
+    outline: none;
+    background-color: transparent;
+}
+
+#mainNav .navbar-nav .nav-item:active,
+#mainNav .navbar-nav .nav-item:focus {
+    outline: none;
+    background-color: transparent;
+}
+
+@media (min-width: 992px) {
+    #mainNav {
+        height: 56px;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+        border-bottom: none;
+        background-color: rgba(213, 102, 44, 0.3);
+        -webkit-transition: background-color 0.3s ease-in-out;
+        transition: background-color 0.3s ease-in-out;
+    }
+    #mainNav .navbar-brand {
+        color: #000;
+        font-weight: 700;
+        font-family: 'Fascinate Inline';
+    }
+    #mainNav .nav-link {
+        font-family: 'Poppins';
+        color: #fe7900;
+        font-weight:bold;
+        text-transform: uppercase;
+        padding: 1rem 1.2rem;
+    }
+    #mainNav .nav-link:hover {
+        color: rgba(255, 255, 255, 0.75);
+    }
+    #mainNav .nav-link:active {
+        color: white;
+    }
+    #mainNav.navbar-shrink {
+        background-color: #000;
+    }
+    #mainNav.navbar-shrink .navbar-brand {
+        color: #fff;
+    }
+    #mainNav.navbar-shrink .nav-link {
+        font-family: 'Poppins';
+        color: #000;
+    }
+    #mainNav.navbar-shrink .nav-link:hover {
+        color: #000;
+    }
+    #mainNav.navbar-shrink .nav-link:active {
+        color: #467370;
+    }
+    #mainNav.navbar-shrink .second-navbar .nav-item .nav-link {
+        color: #fff;
+    }
+}
+
+#mainNav form {
+    display: block;
+    width: 30%;
+}
+
+
+
+/*==============================
+header area
+================================*/
+ .carousel-item {
+    height: 75vh;
+    width: 100%;
+    position: relative;
+    transition: -webkit-transform 4s ease;
+  transition: transform 4s ease;
+  transition: transform 4s ease, -webkit-transform 2s ease;
+    border-bottom: 2px solid #fe7900;
+    
+
+}
+
+.carousel-item img{
+    height:100%;
+    width: 100%;
+     
+    
+}
+.carousel-caption{
+    display: flex;
+    justify-content: center;
+    height: 65vh;
+    flex-direction: column;
+
+}
+
+@media(min-width:991px){
+    .carousel-caption p span{
+        margin-right: 0.7rem;
+        
+    }
+}
+
+.carousel-caption h2{
+  color: #fe7900;
+  font-size: 44px;
+  letter-spacing: 3px;
+  font-weight: 700;
+  line-height: 1.15em;
+  font-family: 'Oswald';
+  text-transform: uppercase;
+}
+
+@media(max-width: 600px){
+     .carousel-item {
+   
+    height: 40vh;
+    width: 100%;
+    
+
+}
+
+    .carousel-item img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover;
+}
+
+.carousel-caption{
+    height: 20vh; 
+}
+.carousel-caption h2{
+    font-size: 26px;
+    color: #fe7900;
+   
+    font-weight:700;
+}
+.carousel-caption p span{
+    display:block;
+    
+}
+}
+
+.carousel-item::before{
+    content: "";
+    background: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+
+
+
+
+.carousel-caption p{
+  color: #fff;
+  margin-bottom: 60px;
+  font-weight: 400;
+  max-width: 730px;
+  font-size: 16px;
+}
+
+
+
+.movie{
+    color: #fe7900;
+    font-weight:600;
+}
+
+
+
+
+
+
+/*=========================
+   about section
+==========================*/
+
+.about-section {
+    padding: 0.7rem 0;
+    background: #282C2F;
+
+    
+}
+
+@media(min-width:991px){
+.about-section .container-fluid{
+   
+    z-index: 999;
+}
+}
+
+
+.social-icons a {
+    border: 1px solid #2296d4;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    height: 30px;
+    width: 30px;
+    text-decoration: none;
+    color: #000;
+    transition: all 0.4s ease-in-out;
+}
+
+.social-icons a:hover {
+    border: none;
+    background: #2296d4;
+    color: #fff;
+}
+
+.single-album-area {
+    position: relative;
+    z-index: 1;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+    margin-bottom: 30px;
+}
+
+.single-album-area .album-thumb {
+    position: relative;
+    z-index: 1;
+}
+
+.single-album-area .album-thumb .album-price p {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    background-color: #21d6bf;
+    background-image: linear-gradient(100deg, #f9643d, #fe2a77);
+    color: #fff;
+    margin-bottom: 0;
+    line-height: 1;
+    padding: 5px 15px;
+    border-radius: 2px;
+    z-index: 20;
+    font-family: 'Raleway';
+}
+
+.single-album-area .album-thumb .play-icon {
+    background: transparent;
+}
+
+.single-album-area .album-thumb .play-icon a {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    border: 1px solid #fff;
+    font-size: 0.9rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    transition: all 0.5s ease-in-out;
+}
+
+.single-album-area .album-thumb .play-icon a:hover {
+    background: #fff;
+    color: #000;
+}
+
+.single-album-area .album-thumb img {
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+    object-fit: cover;
+    
+}
+    
+    
+
+
+
+
+.single-album-area .album-info {
+    display: block;
+    position: relative;
+    z-index: 1;
+    padding: 10px 0;
+    color: #000;
+}
+
+.single-album-area .album-info a {
+    text-decoration: none;
+    font-family: 'Archivo Narrow';
+    color: #f28020;
+}
+
+
+
+.single-album-area .album-info h5 {
+    font-size: 18px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.single-album-area .album-info p {
+    font-family: 'Archivo Narrow';
+    color: #f51cb0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+@media (max-width: 575.98px) {
+    .single-album-area .album-info h5 {
+    font-size: 16px;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+}
+
+
+
+/*======================
+  signup page
+======================*/
+
+#form-wrapper {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+#form-wrapper label {
+    color: #fff;
+    font-family: 'Archivo Narrow';
+}
+
+#form-wrapper form .form-control {
+    padding: 1.3rem 0.6rem;
+    background: transparent;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+#form-wrapper h1 {
+    color: #fff;
+    margin-bottom: 2rem;
+    border-bottom: 4px solid #fff;
+    width: 40%;
+    padding-bottom: 0.8rem;
+    font-family: 'Hind';
+}
+
+#form-wrapper .btn {
+    display: block;
+    width: 100%;
+    font-family: 'Varela Round';
+    text-transform: uppercase;
+}
+
+.or {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1.2rem;
+    align-items: center;
+}
+
+.or .bar {
+    flex: auto;
+    border: none;
+    height: 1px;
+    background: #aaa;
+}
+
+.or span {
+    color: #fff;
+    padding: 0 0.8rem;
+    font-family: 'Archivo Narrow';
+}
+
+.form-file{
+    border: none;
+    padding: 0;
+}
+
+.new-title h6{
+    font-family: 'Oswald';
+      font-size: 26px;
+      font-weight: 400;
+      display: block;
+      margin: 0.7rem 0;
+      color: #fff;
+      text-transform: capitalize;
+}
+
+
+.new-title h6 .stream{
+    color: #fe7900;
+}
+
+
+
+
+
+/*====================
+footer
+=====================*/
+
+footer {
+  width: 100%;
+  padding: 1.5rem 0;
+  background:  url("../img/Happi.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+footer h6 {
+    font-family: 'Oswald';
+    font-weight: 500;
+    color: #fe7900;
+}
+
+footer ul li {
+    display: inline-block;
+    padding: 0 0.7rem;
+    border-right: 1px solid rgba(22, 22, 22, 0.6);
+    font-family: 'Archivo Narrow';
+    font-weight: 500;
+    text-decoration: none;
+}
+
+footer ul li:last-child {
+    border-right: none;
+}
+
+footer .copyright {
+    font-family: 'Varela Round';
+}
+
+footer a{
+    color: #fe7900;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+
+====10-02-2020 02:18:07====
+{"Body":{"stkCallback":{"MerchantRequestID":"22180-12839625-1","CheckoutRequestID":"ws_CO_100220200217524037","ResultCode":1032,"ResultDesc":"Request cancelled by user"}}}
+Successful Error logged
+
+====13-02-2020 12:20:04====
+{"Body":{"stkCallback":{"MerchantRequestID":"7340-22077400-1","CheckoutRequestID":"ws_CO_130220201219465557","ResultCode":0,"ResultDesc":"The service request is processed successfully.","CallbackMetadata":{"Item":[{"Name":"Amount","Value":1},{"Name":"MpesaReceiptNumber","Value":"OBD41ZHPDI"},{"Name":"Balance"},{"Name":"TransactionDate","Value":20200213122004},{"Name":"PhoneNumber","Value":254705972361}]}}}}
+Successful STK
+
+====13-02-2020 12:22:49====
+{"Body":{"stkCallback":{"MerchantRequestID":"22183-20205993-1","CheckoutRequestID":"ws_CO_130220201222149847","ResultCode":1037,"ResultDesc":"DS timeout."}}}
+Successful Error logged

@@ -1,0 +1,474 @@
+[03-Aug-2018 09:29:55 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:30:01 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:34:54 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:35:12 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:35:50 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:36:03 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:36:03 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 197
+[03-Aug-2018 09:36:10 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:36:33 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:36:50 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:36:50 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 196
+[03-Aug-2018 09:36:54 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:40:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\Pop-in\Customers\includes\alertMessages.php on line 61
+[03-Aug-2018 09:40:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\Pop-in\Customers\includes\alertMessages.php on line 61
+[03-Aug-2018 09:41:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '.' in C:\xampp\htdocs\Pop-in\Customers\includes\alertMessages.php on line 63
+[03-Aug-2018 09:41:29 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:45:14 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:45:30 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:46:04 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:46:04 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 208
+[03-Aug-2018 09:46:11 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:46:33 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:47:20 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:47:34 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:47:34 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 196
+[03-Aug-2018 09:47:41 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:50:11 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:51:13 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:51:13 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:197
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(197): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\event_pay.php(158): paymentAPI->insert_into_event_payment_table('MEM7JE9EG70', '+254705972361')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 197
+[03-Aug-2018 09:52:17 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:52:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:197
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(197): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\event_pay.php(158): paymentAPI->insert_into_event_payment_table('MEM7JE9EG70', '+254705972361')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 197
+[03-Aug-2018 09:52:20 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:53:13 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:53:19 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:53:47 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:53:47 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:197
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(197): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\event_pay.php(158): paymentAPI->insert_into_event_payment_table('MEM7JE9EG71', '+254705972361')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 197
+[03-Aug-2018 09:55:17 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:55:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:197
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(197): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\event_pay.php(158): paymentAPI->insert_into_event_payment_table('MEM7JE9EG71', '+254705972361')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 197
+[03-Aug-2018 09:55:20 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:55:56 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:56:19 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:56:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:197
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(197): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\event_pay.php(158): paymentAPI->insert_into_event_payment_table('MEM7JE9EG72', '+254705972361')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 197
+[03-Aug-2018 09:56:24 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:56:37 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:56:37 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 189
+[03-Aug-2018 09:57:38 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:57:59 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:58:31 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 09:58:31 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:197
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(197): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\event_pay.php(158): paymentAPI->insert_into_event_payment_table('MEM7JE9EG73', '+254705972362')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 197
+[03-Aug-2018 09:58:58 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:02:42 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:02:53 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:03:17 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:03:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:197
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(197): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\event_pay.php(158): paymentAPI->insert_into_event_payment_table('MEM7JE9EG74', '+254705972363')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 197
+[03-Aug-2018 10:04:57 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:04:58 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:197
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(197): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\event_pay.php(158): paymentAPI->insert_into_event_payment_table('MEM7JE9EG74', '+254705972363')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 197
+[03-Aug-2018 10:05:56 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:08:02 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:08:04 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:08:09 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:13:26 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:13:53 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:14:00 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:14:01 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:14:03 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:22:45 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:22:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:290
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(147): paymentAPI->delete_from_balance_table()
+#1 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(521): paymentAPI->__construct()
+#2 C:\xampp\htdocs\Pop-in\Customers\includes\initialise.php(30): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Pop-in\index.php(3): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 290
+[03-Aug-2018 10:23:59 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:23:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:290
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(147): paymentAPI->delete_from_balance_table()
+#1 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(521): paymentAPI->__construct()
+#2 C:\xampp\htdocs\Pop-in\Customers\includes\initialise.php(30): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Pop-in\index.php(3): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 290
+[03-Aug-2018 10:26:35 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:26:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:289
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(147): paymentAPI->delete_from_balance_table()
+#1 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(529): paymentAPI->__construct()
+#2 C:\xampp\htdocs\Pop-in\Customers\includes\initialise.php(30): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Pop-in\index.php(3): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 289
+[03-Aug-2018 10:28:44 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:28:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:289
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(147): paymentAPI->delete_from_balance_table()
+#1 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(529): paymentAPI->__construct()
+#2 C:\xampp\htdocs\Pop-in\Customers\includes\initialise.php(30): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Pop-in\index.php(3): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 289
+[03-Aug-2018 10:29:45 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:29:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:289
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(147): paymentAPI->delete_from_balance_table()
+#1 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(529): paymentAPI->__construct()
+#2 C:\xampp\htdocs\Pop-in\Customers\includes\initialise.php(30): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\Pop-in\index.php(3): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 289
+[03-Aug-2018 10:33:49 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:33:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\Pop-in\bal.php:5
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Pop-in\bal.php on line 5
+[03-Aug-2018 10:34:10 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:34:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:287
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\bal.php(5): paymentAPI->delete_from_balance_table()
+#1 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 287
+[03-Aug-2018 10:40:37 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:40:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:287
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\bal.php(5): paymentAPI->delete_from_balance_table()
+#1 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 287
+[03-Aug-2018 10:43:23 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:43:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:287
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\bal.php(5): paymentAPI->delete_from_balance_table()
+#1 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 287
+[03-Aug-2018 10:43:44 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:43:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:287
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\bal.php(5): paymentAPI->delete_from_balance_table()
+#1 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 287
+[03-Aug-2018 10:44:52 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:44:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:287
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\bal.php(5): paymentAPI->delete_from_balance_table()
+#1 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 287
+[03-Aug-2018 10:45:42 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:45:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:287
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\bal.php(5): paymentAPI->delete_from_balance_table()
+#1 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 287
+[03-Aug-2018 10:48:09 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:49:14 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:52:29 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:54:03 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:55:30 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 10:57:16 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:01:26 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:02:40 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:03:14 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:03:59 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:04:20 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:05:34 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:05:35 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:06:23 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:07:37 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:07:47 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:08:36 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:08:40 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:07:39 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:18:48 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:20:11 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:20:11 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 196
+[03-Aug-2018 11:20:50 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:20:57 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:21:14 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:21:17 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:21:18 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 11:21:19 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:21:21 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:23:11 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:23:37 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:23:41 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:23:41 Europe/Berlin] PHP Notice:  Uninitialized string offset: 26 in C:\xampp\htdocs\Pop-in\Customers\includes\automation.php on line 38
+[03-Aug-2018 11:23:42 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 11:23:42 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:23:44 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:48:57 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:49:20 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:49:22 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:49:23 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 11:49:23 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:49:25 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:51:01 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:52:34 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:52:37 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 11:52:40 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:02:19 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:08:46 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:09:08 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:09:12 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:09:13 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 12:09:13 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:09:15 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:20:40 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:21:04 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:21:07 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:21:07 Europe/Berlin] PHP Notice:  Uninitialized string offset: 26 in C:\xampp\htdocs\Pop-in\Customers\includes\automation.php on line 38
+[03-Aug-2018 12:21:08 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 12:21:08 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:21:09 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:31:16 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:31:20 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:33:10 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:33:35 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:33:38 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:33:39 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'TicketTime 
+					WHERE EventId='113040Acxo' AND PayerPhone='+254706087108'' at line 1 in C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php:72
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php(72): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\generateTickets.php(57): ticket->insert_into_tickets_table()
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php on line 72
+[03-Aug-2018 12:35:44 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:35:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'now' (T_STRING), expecting ',' or ')' in C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php on line 64
+[03-Aug-2018 12:36:14 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:36:15 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'TKT403849PZEIX' for key 'PRIMARY' in C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php:72
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php(72): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\generateTickets.php(57): ticket->insert_into_tickets_table()
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php on line 72
+[03-Aug-2018 12:36:33 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:37:00 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:37:25 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:37:28 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:37:29 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'TKT560888PCXHQ' for key 'PRIMARY' in C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php:72
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php(72): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\generateTickets.php(57): ticket->insert_into_tickets_table()
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\ticket.php on line 72
+[03-Aug-2018 12:38:09 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:38:20 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:38:57 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:38:59 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:39:00 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 12:39:00 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:39:02 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:42:15 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:42:37 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:42:39 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:42:40 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 12:42:40 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:42:43 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:42:58 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:51:49 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:52:16 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:52:22 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:52:24 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 12:52:24 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:52:27 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:53:13 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:53:20 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:53:24 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:53:31 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:53:40 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:53:46 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:53:55 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 12:54:00 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 13:32:00 Europe/Berlin] PHP Warning:  require_once(sendEmails.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Pop-in\Customers\includes\initialise.php on line 24
+[03-Aug-2018 13:32:00 Europe/Berlin] PHP Fatal error:  require_once(): Failed opening required 'sendEmails.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Pop-in\Customers\includes\initialise.php on line 24
+[03-Aug-2018 13:32:43 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 13:34:02 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 13:34:19 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 13:34:20 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 13:34:29 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 13:34:50 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 13:35:10 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 13:37:35 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:14:11 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:15:06 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:15:16 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:15:17 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 14:15:17 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 60
+[03-Aug-2018 14:15:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PayerPhone' in 'field list' in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:308
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(308): PDO->query('SELECT DISTINCT...')
+#1 C:\xampp\htdocs\Pop-in\generateTickets.php(60): paymentAPI->fetch_user_payment_details(NULL, '986983ANdQ')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 308
+[03-Aug-2018 14:17:29 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:17:41 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:18:50 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:18:50 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 196
+[03-Aug-2018 14:19:11 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:19:21 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:19:27 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:19:28 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 58
+[03-Aug-2018 14:19:28 Europe/Berlin] PHP Notice:  Undefined variable: PayerPhone in C:\xampp\htdocs\Pop-in\generateTickets.php on line 60
+[03-Aug-2018 14:19:28 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PayerPhone' in 'field list' in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:308
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(308): PDO->query('SELECT DISTINCT...')
+#1 C:\xampp\htdocs\Pop-in\generateTickets.php(60): paymentAPI->fetch_user_payment_details(NULL, '986983ANdQ')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 308
+[03-Aug-2018 14:21:34 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:21:53 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:22:32 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:22:43 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:22:44 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PayerPhone' in 'field list' in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:308
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(308): PDO->query('SELECT DISTINCT...')
+#1 C:\xampp\htdocs\Pop-in\generateTickets.php(60): paymentAPI->fetch_user_payment_details('+254724860959', '641167AUKf')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 308
+[03-Aug-2018 14:25:00 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:25:17 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:25:39 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:25:47 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:25:51 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:26:12 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:26:15 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:26:52 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:27:17 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:27:22 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:27:23 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'PayerEmail' in 'field list' in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:308
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(308): PDO->query('SELECT DISTINCT...')
+#1 C:\xampp\htdocs\Pop-in\generateTickets.php(60): paymentAPI->fetch_user_payment_details('+254724860959', '113040Acxo')
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 308
+[03-Aug-2018 14:28:53 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:29:38 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:30:05 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:30:18 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:30:42 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Pop-in\Customers\includes\mailer\src\SMTP.php on line 1023
+[03-Aug-2018 14:31:28 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:32:31 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:32:50 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:32:52 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:32:53 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:34:15 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:35:04 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:35:25 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:35:32 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:35:32 Europe/Berlin] PHP Notice:  Uninitialized string offset: 26 in C:\xampp\htdocs\Pop-in\Customers\includes\automation.php on line 38
+[03-Aug-2018 14:36:32 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Pop-in\Customers\includes\mailer\src\SMTP.php on line 1272
+[03-Aug-2018 14:43:42 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:43:52 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:44:29 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:44:29 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 196
+[03-Aug-2018 14:44:36 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:44:56 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:44:56 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 196
+[03-Aug-2018 14:45:02 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:46:20 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:46:20 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 196
+[03-Aug-2018 14:46:30 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:46:30 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'MEM7JE9EG98' for key 'PRIMARY' in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php:168
+Stack trace:
+#0 C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php(168): PDOStatement->execute()
+#1 C:\xampp\htdocs\Pop-in\mpesa_details.php(46): paymentAPI->insert_to_mpesa_table()
+#2 {main}
+  thrown in C:\xampp\htdocs\Pop-in\Customers\includes\paymentAPI.php on line 168
+[03-Aug-2018 14:46:41 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:47:17 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:47:17 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\Pop-in\event_pay.php:7) in C:\xampp\htdocs\Pop-in\event_pay.php on line 196
+[03-Aug-2018 14:47:57 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:48:04 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:48:35 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:48:40 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:48:40 Europe/Berlin] PHP Notice:  Uninitialized string offset: 26 in C:\xampp\htdocs\Pop-in\Customers\includes\automation.php on line 38
+[03-Aug-2018 14:48:45 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:57:03 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:57:09 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:57:13 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:57:36 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:57:46 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 14:58:13 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Pop-in\Customers\includes\mailer\src\SMTP.php on line 1023
+[03-Aug-2018 14:59:03 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:00:14 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:00:28 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:00:31 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:04:51 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:05:54 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:06:16 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:08:23 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:21:26 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:46:49 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:46:55 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:47:03 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:47:10 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:50:40 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:50:52 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:50:57 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:52:04 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:52:07 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:52:27 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:52:31 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:52:36 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:52:39 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[03-Aug-2018 15:52:52 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 22:42:29 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 22:43:43 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 22:46:07 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 22:49:59 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 22:50:24 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\Pop-in\Customers\includes\mailer\src\SMTP.php on line 1023
+[31-Dec-2000 22:54:39 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 22:56:43 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 22:57:06 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 22:57:09 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 23:26:42 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 23:49:41 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 23:50:12 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 23:55:14 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 23:55:42 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[31-Dec-2000 23:57:28 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[01-Jan-2001 00:01:08 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[01-Jan-2001 00:02:15 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[01-Jan-2001 00:04:19 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:27:07 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:30:16 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:32:18 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:34:17 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:35:05 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:35:52 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:37:38 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:38:51 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:39:48 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:43:14 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:43:49 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:44:43 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
+[04-Aug-2018 07:45:31 Europe/Berlin] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in C:\xampp\htdocs\Pop-in\Customers\includes\function.php on line 3
